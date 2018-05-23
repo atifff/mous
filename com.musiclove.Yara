@@ -1,6 +1,26 @@
 <rss>
 <channel>
 <item>
+<title>بديت بغلطة - تتر مسلسل حدوتة حب</title>
+<enclosure url="https://dl.dndser.com/dl/yeh/yara/singles/Dndnha.Com.Yara.Bedyit.Bi.Ghalta.mp3"/>
+</item>
+<item>
+<title>يا غيرهم</title>
+<enclosure url="https://dl.dndser.com/dl/yeh/yara/singles/Dndnha.Com.Yara.Ya.Gherohom.mp3"/>
+</item>
+<item>
+<title>لا يكون من جدك</title>
+<enclosure url="https://dl.dndser.com/dl/yeh/yara/singles/Dndnha.Com.Yara.La.Yakoun.Men.Gaddak.mp3"/>
+</item>
+<item>
+<title>مطلبي في الكون</title>
+<enclosure url="https://dl.dndser.com/dl/yeh/yara/singles/Dndnha.Com.Yara.Matlabi.Fi.El.Kon.mp3"/>
+</item>
+<item>
+<title>تتر مسلسل نصيبى وقسمتك 2</title>
+<enclosure url="https://dl.dndser.com/dl/yeh/yara/singles/Dndnha.Com.Yara.Nasebi.we.Esmtak.mp3"/>
+</item>
+<item>
 <title>حاسس</title>
 <enclosure url="http://ms16.sm3na.com/303/Sm3na_com_47464.mp3"/>
 </item>
